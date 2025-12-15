@@ -1,7 +1,7 @@
 using Robust.Shared.Audio;
 using Robust.Shared.GameStates;
 
-namespace Content.Goobstation.Shared.Throwing;
+namespace Content._Horizon.Shared.Throwing;
 
 [RegisterComponent, NetworkedComponent]
 public sealed partial class SwapTeleportOnThrowComponent : Component

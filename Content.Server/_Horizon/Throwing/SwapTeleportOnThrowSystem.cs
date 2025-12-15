@@ -1,9 +1,9 @@
-using Content.Goobstation.Shared.Throwing;
+using Content._Horizon.Shared.Throwing;
 using Content.Shared.Mobs.Components;
 using Robust.Shared.Audio.Systems;
 using Content.Shared.Throwing;
 
-namespace Content.Goobstation.Server.Throwing;
+namespace Content._Horizon.Server.Throwing;
 
 // This event is predicted incorrectly on the client because of physics,
 // that's why for now it stays only on server.
